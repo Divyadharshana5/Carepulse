@@ -6,8 +6,8 @@ import { cn } from "./lib/utils";
 
 const fontSans = Plus_Jakarta_Sans({
   subsets: ["latin"],
-  weight: [`300`, `400`, `500`, `600`, `700`],
-  variable: `--font-sans`,
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-sans",
 });
 
 export const metadata: Metadata = {
